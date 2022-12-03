@@ -1,5 +1,5 @@
 ### Hi, my name is Orkhan Mammadali (KHAN) 👋
-#### I am a junior .net developer.
+#### I am a .net developer.
 
 
 
@@ -21,7 +21,7 @@
 </p>
 <br>
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=OrxanMemmedeli&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
+[Activity Graph](https://activity-graph.herokuapp.com/graph?username=OrxanMemmedeli&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
 
 ------
 
